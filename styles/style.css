@@ -202,6 +202,9 @@ header{
     .navigation-bar a{
         font-size: 17px;
     }
+    .course{
+        margin-top: 20px;
+    }
 }
 
 /* .....Tablet Devices..... */
@@ -229,5 +232,8 @@ header{
     }
     .courses{
         grid-template-columns: repeat(1, 1fr);
+    }
+    .course{
+        margin-top: 20px;
     }
 }
